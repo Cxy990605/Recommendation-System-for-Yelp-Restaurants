@@ -1,0 +1,2 @@
+Train the model using XGBRegressor and fine-tune the hyper-parameters.
+Optimize it by combining with item-based RS system and including more features for training process.
