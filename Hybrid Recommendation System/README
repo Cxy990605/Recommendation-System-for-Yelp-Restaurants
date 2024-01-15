@@ -1,1 +1,8 @@
+This is a hybrid recommendation system based on XGBRegressor model for 2M+ Yelp users.
+The precision reaches 93%, and RMSE is reduced from 0.987 to 0.975.
+
+Preprocessing:
+param_pre.py is a file for the fillna values (mean, std, kurtosis, skewness, max and min).
+The missing data is substituted by the average for cold start problem
+
 External Data Link: https://drive.google.com/drive/u/0/folders/1FG_MGjBl6VbPC-TH0r8T7aXu59E8i1rF?q=parent:1FG_MGjBl6VbPC-TH0r8T7aXu59E8i1rF
