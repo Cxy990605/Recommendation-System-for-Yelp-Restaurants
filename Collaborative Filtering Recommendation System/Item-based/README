@@ -1,0 +1,3 @@
+Implement an item-based recommendation system with Pearson similarity.
+Compute RMSE (Root Mean Squared Error) to show error rate.
+Solve cold start problem by replacing missing value with the average value.
